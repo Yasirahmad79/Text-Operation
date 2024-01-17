@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Text-Operation/static/css/main.e6c13ad2.css",
+    "main.js": "/Text-Operation/static/js/main.1ea1a01c.js",
+    "index.html": "/Text-Operation/index.html",
+    "main.e6c13ad2.css.map": "/Text-Operation/static/css/main.e6c13ad2.css.map",
+    "main.1ea1a01c.js.map": "/Text-Operation/static/js/main.1ea1a01c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1ea1a01c.js"
+  ]
+}
